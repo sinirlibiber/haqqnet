@@ -1,4 +1,4 @@
-# HaqqStatus
+# 1.HaqqStatus
 
 This system will alert you with telegram about jails, inactive status missed blocks and etc. Also it sends you every hour short info about your node status.
 
@@ -42,7 +42,7 @@ root@gumusbey:~/status#
 
 
 
-# Discord Bot
+# 2.Discord Status
 
 
 Nodecord is a Cosmos-based blockchain verifier monitoring and alerting tool.
