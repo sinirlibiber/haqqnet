@@ -149,6 +149,4 @@ When nodecord is launched, it will create a status message on the discord channe
 
 
 
-## Reference List
-This project [Strangelove Ventures](https://github.com/strangelove-ventures )  and Nodeist was inspired by.
 
